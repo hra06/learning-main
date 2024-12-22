@@ -3,8 +3,6 @@ orange
 yellow is the third color
 green is the fourth color
 Bloo is fifth color
-<<<<<<< HEAD
 Indigo is the sixth color of the List
 violet is thhe seventh color
-=======
->>>>>>> origin/main
+these are the rainbow colors.
