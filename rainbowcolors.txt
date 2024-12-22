@@ -3,3 +3,4 @@ orange
 yellow is the third color
 green is the fourth color
 Bloo is fifth color
+Indigo is the sixth color of the List
