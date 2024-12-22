@@ -1,2 +1,3 @@
 BROWN
 gray is not color in the rainbow
+Black is not the color in rainbow.
