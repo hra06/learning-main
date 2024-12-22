@@ -3,3 +3,4 @@ orange
 yellow is the third color
 green is the fourth color
 Bloo is fifth color
+violet is thhe seventh color
